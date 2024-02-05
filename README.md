@@ -1,7 +1,5 @@
 # Premier League Match Predictor
 
-![Premier League Match Predictor](preview.png)
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -14,7 +12,7 @@
 
 ## Overview
 
-The Premier League Match Predictor is a full-stack machine learning project developed to predict the outcomes of football matches in the English Premier League. Using data from the 2021-2022 season, this project creates predictors and trains a machine learning model to forecast the winner of each match. The primary goal is to accurately predict match results and continually improve prediction accuracy.
+The Premier League Match Predictor is a full-stack machine learning project developed to predict the outcomes of football matches in the English Premier League. Using data from the 2021-2022 season, this project creates predictors and trains a machine learning model to forecast the winner of each match. The primary goal is to accurately predict match results and continually improve prediction accuracy. This model collects data for the 2021-2022 Premier League season
 
 ## Project Structure
 
